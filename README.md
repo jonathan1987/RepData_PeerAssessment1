@@ -1,3 +1,8 @@
+## Coursera Assignment 1 for Reproducible Research May 2015
+
+I have included my .Rmd file, the .html output file using knitr in R and the figure plots in the figure-html folder.
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
